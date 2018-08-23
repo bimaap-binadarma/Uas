@@ -1,3 +1,3 @@
-# Uas
-Uas Advance Database 
-Komunitas Facebook League Of Legends Palembang
+# uas
+UAS advance database social network
+Komunitas League Of Legends Palembang
